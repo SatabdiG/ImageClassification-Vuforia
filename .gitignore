@@ -1,0 +1,4 @@
+*.apk
+Assets/ML-Agents/Plugins/iOS/libtensorflow-core.a
+Assets/ML-Agents/Plugins/Computer/libtensorflow.bundle
+.vs/
