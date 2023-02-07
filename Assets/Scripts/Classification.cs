@@ -62,7 +62,6 @@ public class Classification : MonoBehaviour {
 		messageBehavior.ShowMessage (label);
 	}
 
-	//stole from https://github.com/Syn-McJ/TFClassify-Unity
 	public static TFTensor TransformInput (Color32 [] pic, int width, int height) {
 		float [] floatValues = new float [width * height * 3];
 
